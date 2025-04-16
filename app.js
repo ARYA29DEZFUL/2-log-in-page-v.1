@@ -14,7 +14,7 @@ let buttonFunk = function () {
         button.style.backgroundColor = "red"
     } else {
         massege.style.display = "none"
-        container.style.boxShadow = "0px 0px 0px red";
+        container.style.boxShadow = "0px 0px 50px 0px green";
         button.style.backgroundColor = "#50a84d"
     }
 }
